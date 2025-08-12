@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@airgap/module-kit": "^0.13.41"
+  }
+}
